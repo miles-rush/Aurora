@@ -7,7 +7,7 @@
           <span>欢迎各位大佬交换友链 (づ￣ 3￣)づ</span>
           <span>★ Bio：吾月花若梦</span>
           <span>★ Motto：月晕而风 础润而雨</span>
-          <span>★ URL：https://miles-rush.github.io/</span>
+          <span>★ URL：https://mirrormoon.top</span>
           <span
             >★ Avatar：<a href="https://cdn.jsdelivr.net/gh/miles-rush/yoi/2021/img/txhmin.jpg" target="_blank"
               >点击获取</a
