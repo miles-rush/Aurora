@@ -113,7 +113,7 @@ export default {
 		display: true,
 		enableComment: true,
 		qoute: '月晕而风 础润而雨',
-		avatar: '//cdn.jsdelivr.net/gh/miles-rush/yoi/2021/img/txhmin.jpg',
+		avatar: '//cdn.jsdelivr.net/gh/miles-rush/yoi/2021/img/cover.jpg',
 		graduated: 'Zhejiang University of Technology (ZJUT)',
 		college: 'Software Engineering',
 		contact: [{
